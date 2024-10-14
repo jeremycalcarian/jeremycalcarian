@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on startup projects
 - 📫 How to reach me calcajer@seas.upenn.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy chewing ice a bit too much
 
 <!---
 jeremycalcarian/jeremycalcarian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
