@@ -1,4 +1,4 @@
-- Hi, I’m @jeremycalcarian.
+- Hi, I’m Jeremy Calcarian
 - I’m interested in Machine Learning Applications
 - I’m currently learning about EEG, and the Manim Math Animation
 - You can reach me @calcajer@seas.upenn.edu
